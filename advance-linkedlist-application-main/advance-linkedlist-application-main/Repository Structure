@@ -1,0 +1,16 @@
+- src/
+  - SinglyLinkedList.java
+  - DoublyLinkedList.java
+  - CircularLinkedList.java
+  - PostfixCalculator.java
+  - TicketQueue.java
+  - PriorityQueue.java
+- tests/
+  - TestSinglyLinkedList.java
+  - TestDoublyLinkedList.java
+  - TestCircularLinkedList.java
+  - TestPostfixCalculator.java
+  - TestTicketQueue.java
+  - TestPriorityQueue.java
+- README.md
+- report.pdf (for algorithm analysis)
